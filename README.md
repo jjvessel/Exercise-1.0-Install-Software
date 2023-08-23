@@ -1,15 +1,15 @@
 # Exercise 01a: Install Software
 
 ## My name is:
-Jason Francis
+Joseph Vessely
 
 ## My gamedev.stackexchange.com user number is:
-5338
+173797
 
 ## My github username is:
-BL-MSCH-C220
+jjvessel
 
 ## My replit username is:
-BL-MSCH-C220
+jjvessel
 
 ## I have installed the software on my computer as a part of the exercise
